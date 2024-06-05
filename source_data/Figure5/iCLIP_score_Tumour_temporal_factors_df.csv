@@ -1,0 +1,74 @@
+gene_id,gene_name,tumour_type,RBP target,cluster_id,Cluster profile,cluster_code,gene_biotype
+FBgn0285926,Imp,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0036732,Oatp74D,IC,non-target,NA,NA,NA,NA
+FBgn0001092,Gapdh2,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0010620,CG10939,IC,non-target,NA,NA,NA,NA
+FBgn0265413,CG44325,IC,non-target,NA,NA,NA,NA
+FBgn0001098,Gdh,IC,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0015519,nAChRalpha3,IC,non-target,NA,NA,NA,NA
+FBgn0000043,Act42A,IC,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0266313,lncRNA:CR44978,IC,non-target,NA,NA,NA,NA
+FBgn0262972,lncRNA:cherub,IC,Co-target,Cluster III,Higher Syp binding,High_Syp,ncRNA
+FBgn0063127,lncRNA:CR33938,IC,Co-target,Cluster III,Higher Syp binding,High_Syp,ncRNA
+FBgn0014869,Pglym78,IC,non-target,NA,NA,NA,NA
+FBgn0261975,CG42806,IC,non-target,NA,NA,NA,NA
+FBgn0036008,CG3408,IC,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0266599,Hsc70-4,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0003130,Poxn,IC,non-target,NA,NA,NA,NA
+FBgn0037607,CG8036,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0039594,snu,IC,non-target,NA,NA,NA,NA
+FBgn0035499,Chd64,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0039431,plum,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0003360,sesB,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0040942,CG12643,IC,non-target,NA,NA,NA,NA
+FBgn0259176,bun,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0015399,kek1,IC,non-target,NA,NA,NA,NA
+FBgn0035423,eIF1,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0032100,CG13108,IC,non-target,NA,NA,NA,NA
+FBgn0036007,path,IC,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0037913,fabp,IC,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0037057,CG10512,IC,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0035921,CG13305,IC,non-target,NA,NA,NA,NA
+FBgn0039844,CG1607,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0011661,Moe,IC,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0038149,GILT1,IC,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0005278,Sam-S,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0035710,SP1173,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0263396,sqd,IC,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0032587,CG5953,IC,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0053129,CG33129,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0032886,CG9328,IC,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0000579,Eno,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0001091,Gapdh1,IC,non-target,NA,NA,NA,NA
+FBgn0265487,mbl,IC,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0264490,Eip93F,SE,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0026197,lncRNA:noe,SE,Co-target,Cluster III,Higher Syp binding,High_Syp,ncRNA
+FBgn0001230,Hsp68,SE,non-target,NA,NA,NA,NA
+FBgn0010114,hig,SE,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0002633,E(spl)m7-HLH,SE,non-target,NA,NA,NA,NA
+FBgn0013279,Hsp70Bc,SE,non-target,NA,NA,NA,NA
+FBgn0002732,E(spl)malpha-BFM,SE,non-target,NA,NA,NA,NA
+FBgn0259145,CG42260,SE,non-target,NA,NA,NA,NA
+FBgn0001234,lncRNA:Hsromega,SE,Syp target only,Cluster IV,Higher Syp binding,High_Syp,ncRNA
+FBgn0003525,stg,SE,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0030665,CG15646,SE,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0000591,E(spl)m8-HLH,SE,non-target,NA,NA,NA,NA
+FBgn0013272,Gp150,SE,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0011766,E2f1,SE,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0041094,scyl,SE,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0003448,sna,SE,non-target,NA,NA,NA,NA
+FBgn0261836,Msp300,SE,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0001983,wor,SE,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0261564,ReepA,SE,non-target,NA,NA,NA,NA
+FBgn0028473,Non1,SE,non-target,NA,NA,NA,NA
+FBgn0052625,CG32625,SE,non-target,NA,NA,NA,NA
+FBgn0010113,hdc,SE,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0041184,Socs36E,SE,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0025726,unc-13,SE,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0000575,emc,SE,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0034083,lbk,SE,non-target,NA,NA,NA,NA
+FBgn0001981,esg,SE,non-target,NA,NA,NA,NA
+FBgn0031632,CG15628,SE,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0284435,tyn,SE,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0002735,E(spl)mgamma-HLH,SE,non-target,NA,NA,NA,NA
+FBgn0025366,Ip259,SE,non-target,NA,NA,NA,NA

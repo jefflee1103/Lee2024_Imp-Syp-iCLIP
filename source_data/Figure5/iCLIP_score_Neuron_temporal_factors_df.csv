@@ -1,0 +1,523 @@
+gene_id,gene_name,avg_log2FC,pct.1,pct.2,p_val_adj,cluster,temporal_group,RBP target,cluster_id,Cluster profile,cluster_code,gene_biotype
+FBgn0038237,Pde6,2.2210538599078262,0.561,0.137,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0064227,Rdh,2.117813490739584,0.539,0.136,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0038596,CG14312,2.067286188049565,0.465,0.102,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0016061,side,2.0358416784941964,0.357,0.096,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0035936,Tsp66E,2.0203202649738685,0.611,0.186,0,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0037130,Syn1,2.003120308475314,0.441,0.107,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0263257,Cngl,1.9619311951941119,0.845,0.43,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0263353,CG11000,1.9418980952411986,0.618,0.221,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0261804,CG42750,1.937184707698617,0.392,0.114,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0015399,kek1,1.911724444076298,0.478,0.17,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0262509,nrm,1.8739118490327016,0.264,0.063,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0028408,Drep2,1.8357860038541105,0.866,0.425,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0031952,cdc14,1.828364672273691,0.556,0.174,0,atlas_1h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0034286,dpr13,1.8116992431087184,0.562,0.257,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0085447,sif,1.8086926616333265,0.874,0.472,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0040726,dpr1,1.777238758334223,0.438,0.165,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0000568,Eip75B,1.7395923434822764,0.696,0.292,0,atlas_1h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0001186,Hex-A,1.7393707536367744,0.991,0.793,0,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0050172,CG30172,1.7376374724745536,0.847,0.428,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0260008,UQCR-11,1.7127940198843143,0.752,0.323,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0001624,dlg1,1.5962259714841278,0.671,0.297,0,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0083963,Nlg3,1.5933059010327344,0.362,0.118,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0032297,CG17124,1.591726050854914,0.808,0.437,0,atlas_1h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0052982,CG32982,1.5855607200366977,0.275,0.11,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0041210,HDAC4,1.575018542069983,0.42,0.141,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004369,Ptp99A,1.5478255897202349,0.699,0.446,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0261873,sdt,1.5338855479954874,0.605,0.258,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0259239,CG42337,1.5200963045184255,0.305,0.092,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0263231,bel,1.5158784613252867,0.882,0.52,0,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0286827,lncRNA:CR43334,1.5117692700821008,0.237,0.059,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0035032,ATPsynF,1.4931442160135129,0.803,0.445,0,atlas_1h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0034570,CG10543,1.4833222342731704,0.238,0.059,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0040765,luna,1.47269930787526,0.653,0.378,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004865,Eip78C,1.472404480032095,0.242,0.068,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0052683,CG32683,1.4601338112411248,0.156,0.03,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0011666,msi,1.451147291588271,0.794,0.499,0,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0044030,mRpS14,1.4252781937856231,0.274,0.079,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0031866,Nlg2,1.4234706410596085,0.437,0.173,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0020309,crol,1.4057188678348322,0.503,0.206,0,atlas_1h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0015031,cype,1.3992284054656032,0.944,0.685,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0033988,pcs,1.394255534344662,0.368,0.135,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0030897,Frq1,1.389353197274561,0.642,0.359,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0040793,CG7630,1.3856061504087425,0.877,0.573,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0016696,Pitslre,1.3472081337750732,0.277,0.097,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0035521,VhaM9.7-a,1.3462373557425091,0.374,0.142,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0031116,CG1695,1.3393243678350621,0.247,0.075,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0026879,CG13364,1.2982557896538354,0.551,0.262,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261262,CG42613,1.2958175543475496,0.774,0.47,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0263911,COX8,1.2763337610354535,0.836,0.541,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004636,Rap1,1.2671112956742192,0.576,0.282,0,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0058002,ND-AGGG,1.2623867660007042,0.361,0.149,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0036821,CG3961,1.2601455413161176,0.296,0.117,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0028743,Dhit,1.2555476655651958,0.83,0.525,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0069923,CG41128,1.2516130662926797,0.551,0.264,0,atlas_1h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0265296,Dscam2,1.2511429115022503,0.502,0.275,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0266000,CG44774,1.2486603272735946,0.317,0.116,0,atlas_1h_alh,early,Syp target only,Cluster VI,Other,Other,protein_coding
+FBgn0085229,CG34200,1.2355464155574523,0.455,0.209,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0032151,nAChRalpha6,1.217666750687405,0.949,0.75,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0025558,CG4101,1.2175224317989795,0.191,0.055,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0013343,Syx1A,1.2169691770814488,0.851,0.563,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0032400,CG6770,1.201319541326689,0.541,0.293,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0263994,CG43737,1.1901153186059972,0.473,0.268,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0034877,levy,1.1610157755070416,0.69,0.405,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0011227,ox,1.1382666945275943,0.815,0.57,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0267001,Ten-a,1.1315013602372277,0.733,0.521,0,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0029941,CG1677,1.1253457193022776,0.287,0.117,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0083983,mRpL34,1.1231582614327915,0.333,0.144,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0085468,ND-MWFE,1.110256900598713,0.627,0.361,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004656,fs(1)h,1.101167991038797,0.624,0.344,0,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0262858,CG43222,1.0879026614013254,0.512,0.274,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0278608,Dsp1,1.0759928817781126,0.817,0.54,0,atlas_1h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0038224,ATPsynE,1.0725679329856384,0.542,0.29,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0036505,CG7945,1.069531790600256,0.231,0.082,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0052230,ND-MLRQ,1.0676040401474203,0.604,0.338,0,atlas_1h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0031453,Bacc,1.0665125706953194,0.774,0.558,0,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0261822,Bsg,1.052923934206043,0.743,0.468,0,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0259927,CG42450,1.0483359035417346,0.405,0.202,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0036032,CG16711,1.0481865090726963,0.458,0.241,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0036728,UQCR-Q,1.047176015058557,0.731,0.472,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0029761,SK,1.0373977922594495,0.558,0.348,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0001139,gro,1.0279687359344338,0.501,0.268,0,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0019624,COX5A,1.0267945893567383,0.586,0.354,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0010612,ATPsynG,1.0267494397583548,0.664,0.406,0,atlas_1h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0030400,Pits,1.0180679130952557,0.676,0.431,0,atlas_1h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0003165,pum,1.0084069437935557,0.623,0.396,0,atlas_1h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0034245,UQCR-6.4,0.9908270464177029,0.798,0.566,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0014184,Oda,0.9738701708011148,0.562,0.325,0,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0083167,Neb-cGP,0.9654159611259914,0.725,0.481,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0013981,His4r,0.9559185825413188,0.818,0.586,0,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0025549,unc-119,0.9289324906640379,0.573,0.345,0,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004244,Rdl,0.9176705046922455,0.868,0.655,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0283536,Vha13,0.9043398080343681,0.539,0.332,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0285944,para,0.8684060596934335,0.79,0.568,0,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0264006,dysc,0.821904151208154,0.686,0.471,0,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0034720,Liprin-gamma,0.8120696949232462,0.897,0.709,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0040505,Alk,0.8100464533825731,0.825,0.695,0,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0001105,Gbeta13F,0.6670077668940619,0.929,0.81,0,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0003091,Pkc53E,1.1565866508906195,0.536,0.335,2.3582793211456776e-303,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0004619,GluRIA,1.1442591493599759,0.461,0.264,9.583200175123343e-302,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0000015,Abd-B,1.5064099317257147,0.187,0.058,2.818249551997718e-298,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0002945,nkd,1.1241855610637512,0.402,0.215,1.7039511841826453e-291,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0259740,CG42394,1.6602017216347051,0.267,0.113,2.4133601201644806e-287,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0027598,cindr,0.9917121397631017,0.406,0.217,5.586293076838935e-286,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0028369,kirre,1.1982896507253324,0.183,0.058,6.371469582854924e-286,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0033570,ND-B14,0.9562390471856119,0.407,0.219,7.386777035247586e-285,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0263773,fok,0.9230482250497047,0.481,0.283,1.1079690945098024e-280,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0022224,ubl,1.1028203687257958,0.185,0.06,2.1308898388495693e-276,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0260943,Rbp6,0.6734266273043685,0.887,0.755,3.345957517024113e-274,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0261552,ps,0.5917419254622986,0.792,0.63,1.414964159849648e-272,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0003415,skd,0.9838784633949755,0.313,0.146,6.472146480688265e-268,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0037873,SdhC,1.0081137502779256,0.305,0.141,1.336450616771622e-267,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004580,Cbp53E,1.1308640684888838,0.717,0.545,1.1146083122268085e-265,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0004880,scrt,0.945778297600294,0.535,0.353,1.960579775388449e-261,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0033961,ND-B15,0.9434072250589443,0.327,0.16,9.798221298531657e-255,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0051635,CG31635,1.0431893466464413,0.249,0.105,5.067800577477014e-253,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0259735,mtgo,1.100275770275218,0.295,0.14,1.0706409175306796e-252,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0033405,CG13954,0.9599394571513322,0.51,0.335,7.144505138175868e-251,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0032938,CG8671,0.9572773725519708,0.273,0.121,1.4427502444240272e-248,atlas_1h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0040931,CG9034,0.9078155193230208,0.347,0.178,7.601421794220637e-247,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0035542,DOR,0.9484919287360483,0.34,0.173,1.6462295792587057e-245,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0033357,Tom7,0.6515972445557949,0.686,0.518,2.9361696588809096e-245,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0014391,sun,0.7831431728559561,0.517,0.333,2.0706657902627403e-242,atlas_1h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0265177,CG44242,0.9188596425058486,0.337,0.172,8.549714627252037e-242,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0031830,COX5B,0.7779014821138315,0.501,0.321,3.065390051765398e-238,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0083953,CG34117,1.0200469060111996,0.156,0.049,6.722919165784996e-238,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0016119,ATPsynCF6,0.7387319321214676,0.512,0.324,6.222944623249568e-237,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0031992,Acbp1,0.9470851119509798,0.303,0.147,6.3886628763975706e-236,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0000287,salr,1.3808855574095658,0.176,0.063,8.67647731893211e-232,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0264753,Rgk1,0.8563056415669013,0.449,0.266,3.2033605473931627e-231,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0036789,AstC-R2,1.3274836044761755,0.273,0.129,7.788708772078478e-231,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0005775,Con,1.2539412649741948,0.385,0.226,4.454118683049955e-230,atlas_1h_alh,early,Imp target only,Cluster VI,Other,Other,protein_coding
+FBgn0039218,Rpb10,0.9682734117859164,0.246,0.107,3.3377725624654325e-228,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0265487,mbl,0.8609685199126389,0.579,0.426,1.2616239680051746e-221,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0039259,CG11781,0.948506860540445,0.196,0.076,1.2722221965696899e-219,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0011817,nmo,0.6890935333353512,0.579,0.405,2.505475452681795e-216,atlas_1h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0040666,CG12848,0.9567211297687434,0.163,0.057,2.507532743016324e-216,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0052057,dpr10,1.0724108785733617,0.368,0.211,6.795477998802098e-213,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0033636,tou,0.8568708542683452,0.34,0.182,2.840665408308168e-212,atlas_1h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0031228,ND-15,0.8733026035892908,0.303,0.153,1.0688370500611297e-211,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0040529,COX7A,0.6884861808555511,0.538,0.366,2.345451954990167e-211,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0061198,HSPC300,0.9858104851243337,0.162,0.056,8.144010243283667e-211,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0040773,COX7C,0.60383968258982,0.654,0.489,9.244604723872243e-209,atlas_1h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0086675,fne,0.5266281210141894,0.859,0.752,2.0378044064492645e-207,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0032732,CG15168,0.9789948087290573,0.178,0.069,2.3764344593683043e-199,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0085220,Ufm1,0.9651592958061872,0.157,0.056,9.938758355015614e-199,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004168,5-HT1A,1.028152074603578,0.308,0.164,1.2733623372455538e-197,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0033480,mRpL42,0.9225726436115202,0.172,0.065,3.0669774781493613e-196,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0040534,Sf3b5,0.9107350356584971,0.223,0.099,1.2040464929945198e-195,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0262582,cic,0.7902890354868362,0.396,0.237,3.418168871126988e-191,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0264895,RapGAP1,1.1341110923848148,0.389,0.24,2.541120284882811e-190,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0063670,CG40228,0.887017042959649,0.162,0.06,2.9144315532791415e-189,atlas_1h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0085436,Not1,0.8399232953250504,0.326,0.179,5.014787577630276e-189,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0024941,RSG7,0.7709282799554504,0.469,0.312,3.0151659208135386e-187,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0260446,GABA-B-R1,0.8009242445892173,0.287,0.146,8.443140752156982e-187,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0031883,Caper,0.8927063161675375,0.2,0.085,3.50142866355314e-185,atlas_1h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0032901,sky,0.8998949951303084,0.263,0.132,2.517399778532407e-182,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0051665,wry,0.8653120062459285,0.53,0.379,6.141880306335528e-179,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0033691,CG8860,0.7474463022510776,0.351,0.201,1.220862711510055e-176,atlas_1h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0035719,tow,0.6335487869367751,0.556,0.396,1.7223210748795488e-174,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0036494,Toll-6,0.6377410085805995,0.662,0.51,1.1328022929000708e-173,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0086680,vvl,1.057723778021038,0.424,0.28,1.4492896808230864e-171,atlas_1h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0053147,Hs3st-A,0.9756154832951922,0.238,0.118,1.0320334268565315e-169,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0030733,UQCR-14,0.6039021481697264,0.576,0.424,1.0341306636752467e-169,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0031505,ND-B14.5B,0.7837712321575623,0.287,0.155,1.8180342958778519e-165,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0013995,Calx,1.0531722140820097,0.192,0.086,7.159368540258513e-164,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0040752,Prosap,0.7360190412007879,0.343,0.201,2.3848833942810367e-163,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0039431,plum,0.9725816425645379,0.181,0.079,1.1225063041508125e-162,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0035481,CG12605,0.8311107564465847,0.379,0.242,7.513507108128386e-161,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0085407,Pvf3,1.2958445191356915,0.269,0.149,9.019564787072758e-160,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0036518,RhoGAP71E,0.7744014779242887,0.313,0.18,4.545988247018473e-155,atlas_1h_alh,early,Imp target only,Cluster VI,Other,Other,protein_coding
+FBgn0034534,maf-S,0.7966070705422157,0.222,0.11,1.1963907554207094e-151,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0015286,Rala,0.7435604081044969,0.363,0.227,1.118809519998341e-150,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0003721,Tm1,0.5623643603709878,0.554,0.406,5.753830979346848e-147,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0010825,Gug,0.7575416906908616,0.277,0.155,5.224210810448583e-144,atlas_1h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0265597,rad,1.1903804067413062,0.312,0.192,6.148474761590851e-144,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0040754,CG17059,0.7552376147460285,0.233,0.12,4.539410870077195e-143,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0030292,CG11752,0.7672352931055784,0.221,0.112,6.235070643840266e-142,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0030605,ND-B18,0.7534215768982264,0.219,0.11,7.395193074264654e-142,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0001229,Hsp67Bc,0.7125876682326027,0.284,0.16,5.446169628856042e-139,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0003862,trx,0.7997170267703604,0.191,0.091,8.830502383577107e-139,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261791,SNRPG,0.647710010767391,0.331,0.202,2.5413052961265942e-132,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0028875,nAChRalpha5,0.6458546857478122,0.372,0.238,1.2811325273131746e-130,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0040907,mRpL33,0.6795574042889125,0.254,0.14,1.3596007282328071e-129,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0005624,Psc,0.7930099201712031,0.206,0.104,1.822902863092591e-129,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0029663,CG10804,0.8389296041260452,0.236,0.13,2.819786907873548e-125,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0041184,Socs36E,0.7263745806306041,0.257,0.146,1.791529573337884e-124,atlas_1h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0015949,hrg,0.8030670089348226,0.244,0.137,2.7157980268985325e-124,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0265595,CG44422,0.6514277512575752,0.51,0.383,2.7212827961057093e-122,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0026375,RhoGAPp190,0.6639554347251155,0.372,0.251,4.208488891532972e-115,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0264090,CG43759,0.8908281312308652,0.338,0.226,9.718575343718067e-113,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004395,unk,0.7573394033024483,0.253,0.151,4.2995624404309373e-107,atlas_1h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0034645,ND-B12,0.5934728737359949,0.354,0.236,4.3226175485650315e-107,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0005671,Vha55,0.5851659076229541,0.468,0.348,1.8796075875392944e-106,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0259984,kuz,0.6332985646461413,0.324,0.209,3.780264326299378e-106,atlas_1h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0261988,Gprk2,0.6682408305084373,0.272,0.166,3.439642029324533e-105,atlas_1h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0029768,SPR,0.8780092781496949,0.327,0.218,3.269631206568044e-104,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0032021,CG7781,0.5206167201943721,0.361,0.239,3.320596882883324e-104,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0266410,CG45050,0.46712656705606337,0.615,0.494,4.7910266333416135e-104,atlas_1h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0033340,CG13751,0.599920245472136,0.364,0.25,1.9215828945831752e-100,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0250838,roh,0.48594081395989397,0.511,0.392,4.139506063903456e-99,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0015229,glec,0.6353629963252505,0.302,0.194,1.7851497091052026e-97,atlas_1h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0040899,CG17776,0.5758962606501434,0.27,0.167,3.3866966683103594e-96,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0265523,Smr,0.538912420573868,0.417,0.299,1.735937628632433e-94,atlas_1h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0028582,lqf,0.45057085610015424,0.488,0.375,5.557126678874368e-84,atlas_1h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0259171,Pde9,0.5426379492556919,0.419,0.317,6.056210573407509e-74,atlas_1h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0038498,beat-IIa,0.6103732098736785,0.514,0.414,1.672002770452344e-71,atlas_1h_alh,early,non-target,NA,NA,NA,NA
+FBgn0086677,jeb,0.3035366991812847,0.707,0.597,3.030511833983388e-68,atlas_1h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0001225,Hsp26,1.2523215208186582,0.481,0.181,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0001226,Hsp27,1.2370377036153335,0.699,0.31,0,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0026084,cib,1.1717972434067847,0.759,0.398,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0003525,stg,1.112802551344771,0.284,0.071,0,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0002733,E(spl)mbeta-HLH,1.03450968805203,0.132,0.018,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004237,Hrb87F,0.9256626378343311,0.36,0.111,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0004828,His3.3B,0.8701946856915068,0.842,0.489,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0262728,Pal2,0.866880555214979,0.509,0.22,0,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0001258,Ldh,0.8538322735646409,0.969,0.723,0,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0015282,Rpt2,0.8351889851019882,0.308,0.103,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0013705,mt:tRNA:Ser-GCT,0.8218398418752351,0.282,0.096,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0027654,jdp,0.819952444395065,0.348,0.147,0,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0041150,hoe1,0.8164001564467989,0.28,0.098,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0039776,PH4alphaEFB,0.7975334894035035,0.148,0.035,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0030208,PPP4R2r,0.7501016676022605,0.346,0.136,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0003016,osp,0.7484726920115385,0.253,0.087,0,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0029123,SoxN,0.7167966426153471,0.333,0.148,0,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0004858,elB,0.7071829271348644,0.324,0.138,0,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0267727,Pen,0.6792617488980299,0.25,0.082,0,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0027865,Tsp96F,0.6613022208335213,0.257,0.099,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0058469,lncRNA:CR40469,0.6516470831954018,0.622,0.287,0,atlas_24h_alh,early,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,ncRNA
+FBgn0011284,RpS4,0.649532893307843,0.79,0.444,0,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0264922,smt3,0.6219516197142108,0.863,0.603,0,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0020497,emb,0.6166035821639522,0.411,0.183,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0040071,tara,0.6137597140620745,0.293,0.117,0,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0261602,RpL8,0.6111701648500012,0.716,0.388,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0028697,RpL15,0.5903665227248438,0.746,0.423,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0034476,Toll-7,0.5895741619015507,0.529,0.295,0,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0030035,PIG-T,0.5842098730517318,0.391,0.174,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004926,eIF2beta,0.5772431199655199,0.433,0.208,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0024733,RpL10,0.5768759249489728,0.803,0.476,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0003218,rdgB,0.5763521026697007,0.377,0.176,0,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0004403,RpS14a,0.5752704658556511,0.663,0.357,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261592,RpS6,0.5628523890905037,0.459,0.219,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0005533,RpS17,0.5596094023643312,0.707,0.415,0,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0026418,Hsc70Cb,0.5562096657095235,0.553,0.288,0,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0020910,RpL3,0.5425589583278825,0.633,0.335,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0024807,DIP1,0.5394459222531292,0.467,0.234,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0036825,RpL26,0.5376525179019427,0.731,0.427,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0016694,Pdp1,0.5362602771656437,0.621,0.366,0,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0020618,Rack1,0.5321060211567636,0.478,0.234,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0285950,RpL19,0.5282816233338261,0.725,0.425,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0284243,betaTub56D,0.5238399397904479,0.97,0.786,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0010411,RpS18,0.5166457036651901,0.65,0.365,0,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0033188,Drat,0.5161802932600406,0.345,0.162,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0013672,mt:ATPase6,0.5155569307999608,0.792,0.51,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0003942,RpS27A,0.5085002371973832,0.782,0.485,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0013325,RpL11,0.5051161525869259,0.618,0.346,0,atlas_24h_alh,early,Co-target,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0004868,Gdi,0.5025415858111395,0.437,0.225,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0037686,RpL34b,0.49978889578169516,0.526,0.273,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0010408,RpS9,0.49479263965694864,0.676,0.384,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0034282,Mapmodulin,0.49450523097281796,0.474,0.241,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0262952,mt:ND4,0.48886961873198853,0.486,0.255,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0034968,RpL12,0.4849102612248086,0.672,0.382,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0035753,RpL18,0.4799986794668736,0.639,0.354,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0005593,RpL7,0.47421746755682737,0.642,0.353,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0036661,CG9705,0.4739201085149145,0.389,0.178,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0039713,RpS8,0.47288549520640144,0.71,0.413,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0033872,CG6329,0.4655603393512653,0.722,0.455,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0086710,RpL30,0.4608910957079093,0.629,0.368,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0003279,RpL4,0.4600808760370301,0.408,0.198,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261597,RpS26,0.4584838401927218,0.783,0.502,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0002590,RpS5a,0.45468995972503246,0.639,0.362,0,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0001122,Galphao,0.4544013201242594,0.871,0.63,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0033912,RpS23,0.4464511678037111,0.643,0.375,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0030366,Usp7,0.440881846685369,0.588,0.331,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0030616,RpL37a,0.44080884596263736,0.767,0.478,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0002626,RpL32,0.43961756888117787,0.805,0.556,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0011760,ctp,0.4384293958650103,0.93,0.745,0,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0034138,RpS15,0.43505337500619046,0.801,0.539,0,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0029897,RpL17,0.43037327484695886,0.655,0.384,0,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0002579,RpL36,0.41855574554133845,0.822,0.582,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0011272,RpL13,0.4175013454118104,0.582,0.325,0,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0000100,RpLP0,0.4048094042121546,0.56,0.302,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0014026,RpL7A,0.3987558379952372,0.643,0.368,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0016726,RpL29,0.38868967005859467,0.948,0.756,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0002593,RpLP1,0.3755688322195381,0.876,0.622,0,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0001224,Hsp23,0.3455719134097168,0.391,0.183,0,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0262972,lncRNA:cherub,0.20373477302795173,0.815,0.446,0,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,ncRNA
+FBgn0039359,RpL27,0.39159162053612695,0.688,0.424,5.99067005770073e-304,atlas_24h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0029093,cathD,0.5956802496346691,0.227,0.083,1.0040945163926112e-303,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0052626,AMPdeam,0.4419564626672514,0.475,0.252,1.0401514377437421e-303,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0000499,dsh,0.5111442139427211,0.365,0.174,2.06409996220112e-301,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0013679,mt:ND1,0.5236581198542822,0.289,0.124,4.8455769025193786e-295,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0003941,RpL40,0.3875922955235094,0.803,0.541,2.1338177640812907e-294,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0264493,rdx,0.5579254569332619,0.306,0.137,9.721182456174162e-294,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0032731,Swip-1,0.6912296063452286,0.188,0.061,1.3709554428935216e-293,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0013684,mt:ND5,0.5103628442029127,0.319,0.145,2.189510760727814e-293,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0267505,pre-rRNA:CR45845,0.5673188761156764,0.22,0.079,3.584341661678527e-291,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0035872,Cpsf6,0.5026824817727111,0.331,0.153,7.501486455038848e-291,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261885,osa,0.4795428049153465,0.275,0.115,2.0628584246444827e-288,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0013675,mt:CoII,0.29846926773933546,0.909,0.699,3.476284814866399e-286,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0022893,Df31,0.22255768259732234,0.635,0.363,1.4529575573874414e-285,atlas_24h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0051721,Trim9,0.5942724690368331,0.375,0.191,2.1415088030031657e-282,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0029974,dpr14,0.40621177394865704,0.548,0.314,2.439035397885776e-282,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261608,RpL37A,0.3644935666517233,0.766,0.508,2.594687501112171e-282,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0011726,tsr,0.396856978058465,0.611,0.361,6.466723862971235e-282,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0015521,RpS21,0.37280356821783034,0.829,0.603,6.405978039363324e-280,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0039757,RpS7,0.35997773890024387,0.738,0.466,1.8860562165872583e-279,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0010409,RpL18A,0.36564554778419156,0.739,0.469,8.181008165947827e-277,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0051660,smog,0.4189741827087592,0.543,0.315,1.1658966795126962e-276,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0034083,lbk,0.45199553334412235,0.394,0.203,2.3043820400227952e-275,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0032987,RpL21,0.3597411665264638,0.665,0.405,1.1655561170760282e-274,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0028496,CG30116,0.5506893059629845,0.353,0.175,1.8100119725513236e-273,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0033699,RpS11,0.35655600002093735,0.759,0.497,3.805490006454292e-270,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0035422,RpL28,0.3689366762924857,0.756,0.5,7.224674489724805e-267,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0286222,Fum1,0.6462904566790133,0.154,0.046,7.712037936946831e-267,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0030421,Agpat1,0.6260411826593908,0.175,0.058,9.810374626048445e-266,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0013342,nSyb,0.39170546071100043,0.739,0.494,1.0190153572601597e-264,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0010078,RpL23,0.3787827991316446,0.801,0.557,1.4343385196146232e-264,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0036213,RpL10Ab,0.34436151511192437,0.638,0.382,3.0980951681257334e-264,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0002622,RpS3,0.371070158187941,0.538,0.308,4.941423153903175e-264,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0032518,RpL24,0.35641832704630705,0.646,0.388,1.4144629150752085e-263,atlas_24h_alh,early,Co-target,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0026372,RpL23A,0.3434122823485297,0.526,0.3,1.8663970858274293e-262,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0035371,AhcyL1,0.6039325166244944,0.184,0.064,4.0604728249137446e-260,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0015221,Fer2LCH,0.39258336639065794,0.458,0.253,1.164996309720446e-258,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0260747,Chchd2,0.506923886715573,0.316,0.154,1.8074244222325744e-258,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0015756,RpL9,0.3342066476139589,0.486,0.273,2.7175304020966313e-253,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0037328,RpL35A,0.3847127391644283,0.511,0.296,1.3515297834807401e-251,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0032666,CG5758,0.41893574556297786,0.275,0.121,5.761489801280847e-251,atlas_24h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0023179,amon,0.5402947037475352,0.263,0.118,8.168181498320423e-250,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0010452,trn,0.42196553677382465,0.491,0.291,1.0196147372822274e-247,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0013704,mt:tRNA:Arg-TCG,0.6217386994539407,0.177,0.062,1.1756472989260158e-246,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0038834,RpS30,0.3563446420614924,0.681,0.441,5.332250106257254e-245,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0028341,Ptpmeg2,0.499046736575508,0.231,0.097,3.4130500438490115e-243,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0038659,EndoA,0.419767136177736,0.403,0.219,1.4452453414605937e-241,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0003517,sta,0.2748765885590938,0.711,0.434,7.54077183020749e-241,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0028737,eEF1beta,0.40463807891100423,0.316,0.157,1.0147288027188302e-239,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0013674,mt:CoI,0.26060658873606624,0.916,0.733,1.6529797348518e-237,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0031980,RpL36A,0.34182729812058543,0.739,0.498,3.6113803999807746e-237,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0039857,RpL6,0.3136913965415311,0.593,0.352,8.28098305346641e-237,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0285917,sbb,0.32223638622605577,0.846,0.625,6.968106538298531e-236,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0034743,RpS16,0.3336841898481424,0.62,0.385,9.617732340143953e-233,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0263108,BtbVII,0.4675665161859066,0.27,0.125,3.253783912002258e-232,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0039861,pasha,0.4772384068474691,0.275,0.129,8.972228438563567e-232,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261599,RpS29,0.3364695892499121,0.837,0.609,1.3153524647421164e-231,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0011763,Dp,0.5100679673967132,0.206,0.084,3.3605332841388237e-230,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0011766,E2f1,0.36837527074657217,0.391,0.21,2.7095445022882827e-229,atlas_24h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0017579,RpL14,0.31529769616150194,0.723,0.468,7.064284748484374e-227,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0286213,RpS12,0.31654195205387303,0.748,0.496,2.9241468994313215e-226,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0004108,Nrt,0.37088739121995706,0.314,0.155,6.045625767145384e-225,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0003274,RpLP2,0.29833821586264886,0.827,0.578,7.291222651552562e-224,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0038282,dpr9,0.3863292874137927,0.596,0.389,2.6661149344683415e-221,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0004876,cdi,0.34816134774381524,0.513,0.305,1.5671217705577903e-220,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261596,RpS24,0.304110538534093,0.589,0.36,2.1628467243048805e-220,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0001233,Hsp83,0.34200751298621634,0.306,0.153,2.503019373376082e-218,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0033484,CG2269,0.3077804279510894,0.429,0.245,7.23303597814015e-215,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0010412,RpS19a,0.27814064350945333,0.533,0.317,7.808469997036472e-214,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0285949,RpL31,0.3271142933358422,0.673,0.44,2.0998417229386766e-211,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0014859,Hr38,0.5078931041858707,0.254,0.123,1.7490994221275725e-210,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0064225,RpL5,0.27029160678623443,0.572,0.348,1.5285431227574555e-209,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0027932,Akap200,0.2963853688872198,0.384,0.208,3.0643006415730867e-209,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0266666,Sem1,0.3414418906853771,0.407,0.23,2.85540180674806e-206,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0000635,Fas2,0.3437264701192282,0.745,0.548,4.6629470340289484e-204,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0022238,lolal,0.39208025029841975,0.348,0.19,1.1378638414895566e-203,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0263930,dally,0.3895134983777071,0.387,0.218,2.671642742591225e-203,atlas_24h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0041775,tral,0.32405621517013916,0.394,0.219,1.2799524598942286e-202,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0044328,CG32052,0.45842740217911615,0.324,0.176,4.515620646560729e-202,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0029134,Prosbeta5,0.4621461324851506,0.181,0.074,6.762151958039596e-201,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261793,Trf2,0.32320774794556906,0.491,0.295,4.000651691299727e-200,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0051451,lncRNA:CR31451,0.3371033458253896,0.467,0.278,8.314047438192536e-200,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,ncRNA
+FBgn0266937,lncRNA:CR45388,0.4889042929233083,0.176,0.07,1.6241337626034155e-199,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,ncRNA
+FBgn0001218,Hsc70-3,0.2878610837158315,0.279,0.138,8.632851616901092e-199,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0035772,Sh3beta,0.4009789583531891,0.254,0.124,5.540522617184413e-197,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0004921,Ggamma1,0.3086467081527853,0.422,0.244,4.534453467502873e-196,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0263352,Unr,0.23191915355893444,0.492,0.291,9.670717360804403e-195,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0285947,RpS10b,0.2651455711434276,0.53,0.317,1.9393590625107703e-194,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0020496,CtBP,0.2675782688901567,0.465,0.273,1.4193864360198686e-193,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0039735,Nph,0.39235087459715556,0.235,0.112,5.909377300585642e-193,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0014857,His3.3A,0.4072952420049454,0.261,0.132,1.7537552468456808e-191,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0033000,CG14464,0.30339784774178513,0.449,0.265,2.415184463869211e-191,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0016797,fz2,0.34133759393183194,0.806,0.61,2.5259125593676656e-191,atlas_24h_alh,early,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0023167,SmD3,0.49826730617145265,0.173,0.072,2.1681869867473665e-188,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0034072,Dg,0.323878060410669,0.328,0.176,7.14976751905907e-188,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0022768,Pp2C1,0.3937656194624375,0.248,0.121,6.07971005858284e-187,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0002413,dco,0.36187402002772795,0.243,0.117,8.373442479471126e-187,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0010198,RpS15Aa,0.2512863055263974,0.477,0.285,7.936960488378334e-186,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0243512,puc,0.44318616768016295,0.219,0.103,1.703173157171405e-183,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0000370,crc,0.28742737435115484,0.238,0.113,4.211753172660486e-183,atlas_24h_alh,early,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0016120,ATPsynD,0.29204789922122254,0.527,0.326,1.5851428288427767e-182,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0019936,RpS20,0.2780118832353704,0.731,0.498,1.919120577384722e-182,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0033368,CG13743,0.4948523372660645,0.183,0.079,2.2936805065249526e-182,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0016685,Nlp,0.2505055501063529,0.266,0.134,8.8935176660871e-181,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0086472,RpS25,0.26733976268798276,0.895,0.709,3.568298131466389e-180,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0037697,GstZ2,0.3357887747444763,0.191,0.084,4.023224701192443e-179,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0004867,RpS2,0.17521487153358706,0.667,0.41,3.1271470722827427e-177,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0034046,tun,0.3911091055808551,0.231,0.113,5.019867068806482e-175,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0038100,Paip2,0.349744877738734,0.257,0.131,7.528062752159707e-175,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0051151,wge,0.3848312219144503,0.202,0.093,8.321886393547441e-173,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0003261,Rm62,0.23668846387977815,0.307,0.164,8.601704474893131e-172,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0010265,RpS13,0.27590066788822654,0.803,0.573,2.168159799955187e-170,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0011211,blw,0.2493291706215799,0.457,0.277,1.371225454926936e-168,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0038498,beat-IIa,0.36497145678604337,0.515,0.351,7.513079605698999e-167,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0035165,CG13887,0.3817087080910866,0.213,0.104,2.9760026110489316e-165,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0283521,lola,0.19402497757770876,0.397,0.23,3.461454321406006e-165,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0264442,ab,0.41481089335342647,0.284,0.157,4.2342883751478606e-165,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0003423,slgA,0.33156252173715517,0.306,0.172,6.501693836140393e-164,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0030038,CG1440,0.37995933751247524,0.2,0.095,4.938501393025086e-162,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0039858,CycG,0.22004157753215026,0.326,0.182,4.604410582189485e-161,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0000181,bic,0.24865698535203196,0.337,0.192,1.4660077147585308e-160,atlas_24h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0037351,RpL13A,0.18955241384123012,0.7,0.454,4.1144448675339655e-157,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0010240,Lcch3,0.23225855125355332,0.355,0.203,1.8185416223542547e-156,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0004924,Top1,0.2525042480844806,0.401,0.241,8.005211309963842e-154,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0001942,eIF4A,0.18214786491651802,0.44,0.267,1.4286278677888495e-153,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0283657,Tlk,0.20745329483119246,0.547,0.347,3.480191925382227e-153,atlas_24h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0086904,Nacalpha,0.2678674304880384,0.292,0.163,1.1191650745231334e-152,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0013954,Fkbp12,0.20748147180942356,0.618,0.399,1.42760100851973e-150,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0039528,dsd,0.32477613506950376,0.237,0.125,6.078476057163026e-149,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0030847,CG12991,0.2106101096410642,0.551,0.355,4.269179618734244e-146,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0017545,RpS3A,0.1440270484672479,0.574,0.36,5.3127681492614125e-146,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0031885,Mnn1,0.21395972349420678,0.356,0.21,1.003414889819125e-144,atlas_24h_alh,early,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0039830,ATPsynC,0.18575651832110207,0.736,0.493,1.4010577754041686e-144,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0013759,CASK,0.23876095851207513,0.672,0.467,4.447384384829559e-144,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0259143,CG42258,0.2746041379814348,0.318,0.185,2.1571468312432832e-142,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0259176,bun,0.2129024639515018,0.619,0.414,4.8460449244629614e-142,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0000308,chic,0.1689152377509,0.386,0.233,1.0034493919100705e-141,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0039927,CG11155,0.22465885129124796,0.258,0.141,2.462668125703326e-138,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0286778,CG46385,0.2915019944518198,0.233,0.125,5.727463778909006e-138,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0004587,B52,0.28674473028107994,0.208,0.107,9.52016637337095e-138,atlas_24h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0052062,Rbfox1,0.19285954550556994,0.864,0.671,1.5906356315998985e-137,atlas_24h_alh,early,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0038975,Nrx-1,0.21957845826273203,0.353,0.21,3.8148581033032004e-137,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0004611,Plc21C,0.2433951564134047,0.226,0.119,2.8676700443000657e-135,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0031835,CG11319,0.28555897675687314,0.323,0.192,9.043492609002009e-135,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0043884,mask,0.23835987360953115,0.248,0.135,1.1323913221523862e-134,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0003360,sesB,0.16647736892829013,0.659,0.436,1.1871975245789567e-132,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0032797,Hasp,0.23495292247987942,0.4,0.253,3.976110174567441e-132,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0262737,mub,0.2196054662603184,0.251,0.138,6.926473771114056e-132,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0285952,eEF5,0.1448801070758221,0.384,0.235,1.437507046793549e-131,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0037728,p23,0.1990240981857303,0.3,0.177,7.687060384887746e-130,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0013334,Sap47,0.17891409465947827,0.958,0.822,1.2218867047995277e-128,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0030809,Ubr1,0.22265334397458103,0.311,0.183,8.79595585084691e-128,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0266599,Hsc70-4,0.1463764152595286,0.26,0.145,9.006106245533242e-128,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0000150,awd,0.19384509228595315,0.641,0.439,1.974666310019766e-126,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0037874,Tctp,0.17377104218832695,0.274,0.158,3.104428579573512e-126,atlas_24h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0003071,Pfk,0.18764300645248122,0.365,0.224,5.127631322253575e-125,atlas_24h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0261556,CG42674,0.3264399136455154,0.23,0.128,1.0323501653229154e-122,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0039300,RpS27,0.20364630173444276,0.859,0.669,1.894878929185918e-121,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0000024,Ace,0.2197242567317761,0.328,0.198,3.237193372007872e-121,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0000179,bi,0.18062369114412613,0.288,0.17,1.2127116075732738e-120,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0029785,RpL35,0.14376951006564553,0.532,0.352,1.0665350219560213e-118,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0261794,kcc,0.19156662894790344,0.405,0.258,4.830853542457803e-117,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0285948,RpL27A,0.1698396267515907,0.716,0.5,1.5191924596380547e-114,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0043070,MESK2,0.18437053760418598,0.474,0.313,2.0068356554892898e-114,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0083228,Frq2,0.2215240297129797,0.297,0.182,5.974184943011201e-111,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0025809,Paf-AHalpha,0.20622986147916844,0.247,0.143,1.6528692739221481e-110,atlas_24h_alh,early,Imp target only,Cluster VI,Other,Other,protein_coding
+FBgn0020269,mspo,0.20008454263517095,0.614,0.447,4.193115872017424e-108,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0026160,tna,0.16765560959551884,0.778,0.576,1.275456883477148e-106,atlas_24h_alh,early,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0001234,lncRNA:Hsromega,0.1063116944872049,0.592,0.405,3.002536227133911e-105,atlas_24h_alh,early,Syp target only,Cluster IV,Higher Syp binding,High_Syp,ncRNA
+FBgn0003093,Pkc98E,0.17343815374268523,0.253,0.149,3.0202736341681017e-105,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0004363,porin,0.10575488752267326,0.528,0.341,3.628202380870192e-105,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0265595,CG44422,0.13219319999923895,0.487,0.329,3.4864295084201475e-104,atlas_24h_alh,early,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0264270,Sxl,0.12515624027344208,0.331,0.205,8.312353983702598e-103,atlas_24h_alh,early,Co-target,NA,N/A,NA,NA
+FBgn0010217,ATPsynbeta,0.13294705571863918,0.387,0.25,4.8271422100215e-101,atlas_24h_alh,early,Co-target,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0000043,Act42A,0.12461202711894481,0.296,0.184,9.250587917682738e-99,atlas_24h_alh,early,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0000479,dnc,0.148867752279783,0.533,0.362,1.0618675373383067e-98,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0013576,mtd,0.1331082728754831,0.295,0.184,1.6881874668215026e-93,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0030136,RpS28b,0.16829203897371947,0.705,0.513,2.2004713813394158e-93,atlas_24h_alh,early,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0003074,Pgi,0.1536572895792463,0.274,0.171,1.1869511491161051e-92,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0028953,CG14478,0.15047421445959497,0.288,0.181,9.187743462699677e-92,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0267912,CanA-14F,0.11663721902327318,0.29,0.182,2.8975878617863825e-88,atlas_24h_alh,early,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0040660,CG13551,0.1171267965374061,0.276,0.172,4.2987567286331726e-88,atlas_24h_alh,early,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0036844,Mkp3,0.11902772467581624,0.371,0.258,1.704267085346037e-67,atlas_24h_alh,early,non-target,NA,NA,NA,NA
+FBgn0086677,jeb,0.17482242273089987,0.691,0.546,2.1944337087290158e-60,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0031294,IA-2,0.14884104677590404,0.815,0.695,4.0632104472037175e-45,atlas_24h_alh,early,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0040007,RpL38,0.15029403085244564,0.748,0.591,1.3976818003836282e-44,atlas_24h_alh,early,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0026197,lncRNA:noe,1.8451114145175458,0.545,0.313,0,atlas_48h_alh,late,Co-target,Cluster III,Higher Syp binding,High_Syp,ncRNA
+FBgn0019661,lncRNA:roX1,1.3058713831828457,0.459,0.285,0,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,ncRNA
+FBgn0262972,lncRNA:cherub,0.914822461071358,0.701,0.597,0,atlas_48h_alh,late,Co-target,Cluster III,Higher Syp binding,High_Syp,ncRNA
+FBgn0010113,hdc,1.2000640559609823,0.464,0.345,3.2984969767321116e-286,atlas_48h_alh,late,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0013688,mt:srRNA,1.945742417916186,0.176,0.069,5.609919141648747e-274,atlas_48h_alh,late,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,rRNA
+FBgn0004595,pros,1.1399474969039112,0.286,0.179,3.998647068835546e-189,atlas_48h_alh,late,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0002921,Atpalpha,0.32732115934314443,0.701,0.814,6.987092365176497e-48,atlas_48h_alh,late,Co-target,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0036926,CG7646,0.12955843781685994,0.249,0.362,1.896687492212136e-33,atlas_48h_alh,late,non-target,NA,NA,NA,NA
+FBgn0003380,Sh,0.10806783550417487,0.317,0.459,7.317138310645987e-31,atlas_48h_alh,late,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0011211,blw,0.12562517964285425,0.282,0.405,9.876480617817426e-28,atlas_48h_alh,late,non-target,NA,NA,NA,NA
+FBgn0262739,AGO1,0.20033657191514864,0.24,0.343,1.2462838248682946e-24,atlas_48h_alh,late,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0285947,RpS10b,0.10154715077009602,0.334,0.464,6.76079109530563e-22,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0015756,RpL9,0.20198298094548628,0.299,0.416,2.0030349662558185e-17,atlas_48h_alh,late,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0266521,stai,0.164510778839416,0.566,0.761,4.789324662801291e-16,atlas_48h_alh,late,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0265276,l(3)neo38,0.18011815516954854,0.321,0.448,1.4933010212073818e-15,atlas_48h_alh,late,Co-target,Cluster VI,Other,Other,protein_coding
+FBgn0010198,RpS15Aa,0.19680722602085776,0.302,0.417,2.2262814915450844e-15,atlas_48h_alh,late,non-target,NA,NA,NA,NA
+FBgn0026372,RpL23A,0.1837130522608743,0.327,0.45,1.1196725657330021e-14,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0263352,Unr,0.23882975913069115,0.311,0.428,3.506686227193903e-13,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0035753,RpL18,0.10343856062968815,0.4,0.54,2.3033270676080907e-12,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0005593,RpL7,0.10483451358864304,0.399,0.541,4.1291963236661706e-12,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0020910,RpL3,0.13732059026004606,0.388,0.526,6.773185355259823e-11,atlas_48h_alh,late,non-target,NA,NA,NA,NA
+FBgn0058469,lncRNA:CR40469,0.14846287278628534,0.372,0.491,4.364858943652323e-10,atlas_48h_alh,late,Co-target,Cluster V,Peak at L2 Syp,Peak_L2Syp,ncRNA
+FBgn0000100,RpLP0,0.20604141578429047,0.345,0.469,7.548949413959632e-10,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0286516,aqz,0.13847099313626865,0.444,0.599,1.5631791330678357e-8,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0004363,porin,0.15844284341571813,0.351,0.472,3.603767196925365e-8,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0020238,14-3-3epsilon,0.28462107310120643,0.553,0.666,4.719752893687875e-8,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0000150,awd,0.11939427513843004,0.439,0.585,4.084819789873925e-7,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0034743,RpS16,0.1329371825287553,0.408,0.545,5.270478058612056e-7,atlas_48h_alh,late,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0036213,RpL10Ab,0.13491117594887836,0.414,0.553,2.180624993130027e-6,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0010412,RpS19a,0.22810224052863504,0.346,0.46,1.064191278872344e-5,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0039359,RpL27,0.11830522874582261,0.457,0.599,7.871678763430661e-5,atlas_48h_alh,late,Co-target,NA,N/A,NA,NA
+FBgn0033912,RpS23,0.13622582677849948,0.419,0.548,3.874417700933083e-4,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0004242,Syt1,0.24027228874853224,0.349,0.462,9.219102234154852e-4,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0003360,sesB,0.10949873111480102,0.454,0.589,0.004531260982015512,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0052423,shep,0.11457160498808161,0.747,0.859,0.0246563670781094,atlas_48h_alh,late,Co-target,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0259108,futsch,0.23483414098744237,0.728,0.875,0.144952592816804,atlas_48h_alh,late,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0017581,Lk6,0.2760000897217618,0.348,0.455,0.1918357387054351,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0037351,RpL13A,0.14047997632825204,0.48,0.62,1,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0039757,RpS7,0.10521370343289771,0.508,0.644,1,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0064225,RpL5,0.2533640918264499,0.382,0.495,1,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0267252,Ggamma30A,0.3128553055598422,0.513,0.628,1,atlas_48h_alh,late,Imp target only,Cluster I,Higher Imp binding,High_Imp,protein_coding
+FBgn0029785,RpL35,0.28109361535092603,0.37,0.474,1,atlas_48h_alh,late,non-target,NA,NA,NA,NA
+FBgn0032987,RpL21,0.17138194022902464,0.449,0.573,1,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0026206,mei-P26,0.2427094666370091,0.432,0.561,1,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0033872,CG6329,0.2123383715191851,0.514,0.622,1,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0031980,RpL36A,0.1179086323547045,0.523,0.661,1,atlas_48h_alh,late,Syp target only,Cluster III,Higher Syp binding,High_Syp,protein_coding
+FBgn0041605,cpx,0.19355164764981492,0.469,0.585,1,atlas_48h_alh,late,Imp target only,Cluster II,Higher Imp binding,High_Imp,protein_coding
+FBgn0286213,RpS12,0.11200892679461028,0.53,0.662,1,atlas_48h_alh,late,Syp target only,Cluster V,Peak at L2 Syp,Peak_L2Syp,protein_coding
+FBgn0014026,RpL7A,0.23357416892608507,0.424,0.541,1,atlas_48h_alh,late,Syp target only,Cluster IV,Higher Syp binding,High_Syp,protein_coding
+FBgn0000064,Ald1,0.10842628376719965,0.649,0.775,1,atlas_48h_alh,late,Co-target,Cluster II,Higher Imp binding,High_Imp,protein_coding
