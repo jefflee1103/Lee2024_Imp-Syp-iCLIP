@@ -1,4 +1,4 @@
-track name="L2 Syp binding sites"
+track name="L2 Syp peaks" description="L2 Syp binding sites" color=209,117,184 visibility=dense
 2L	113616	113621	.	0	+
 2L	114270	114275	.	0	+
 2L	201746	201751	.	0	+

@@ -1,4 +1,4 @@
-track name="L2 Imp binding sites"
+track name="L2 Imp peaks" description="L2 Imp binding sites" color=143,209,117 visibility=dense
 2L	297150	297155	.	0	+
 2L	303885	303890	.	0	+
 2L	1653081	1653086	.	0	+
